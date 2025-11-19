@@ -1,0 +1,6 @@
+# Compiled Executables and DLLs
+*.exe
+*.dll
+
+# VS Code settings folder
+.vscode/
